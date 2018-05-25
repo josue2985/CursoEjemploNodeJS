@@ -2,6 +2,9 @@ var a = 5;
 var b = 787;
 
 console.log('la suma es ',a+b);
+<<<<<<< HEAD
+console.log('texto nuevo');
+=======
 console.log('la suma es');
 ljgljydkutekyter
 fdg
@@ -19,3 +22,4 @@ sdfdsf
 
 saf
 sdfsdfsd
+>>>>>>> paralela
